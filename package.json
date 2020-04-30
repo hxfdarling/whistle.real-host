@@ -1,6 +1,6 @@
 {
   "name": "whistle.real-host",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "pluginPriority": 1,
   "scripts": {},
   "dependencies": {
